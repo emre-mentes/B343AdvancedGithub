@@ -18,4 +18,7 @@ public class MyClass {
     //version4
     public String s6= "bu s6 dir";
 
+    //techpro branch, version t3
+    public String s7= "hangi string deyiz?";
+
 }
