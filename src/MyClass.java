@@ -18,4 +18,7 @@ public class MyClass {
     //version4
     public String s6= "bu s6 dir";
 
+    //version5
+    public String s7= "tarabyada villasi s7";
+
 }
