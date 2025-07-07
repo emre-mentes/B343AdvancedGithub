@@ -6,4 +6,7 @@ public class MyClass {
     //version2
     public String s2= "bu s2 dir";
 
+    //version3
+    public String s3= "bu s3 dir";
+
 }
