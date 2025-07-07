@@ -12,4 +12,7 @@ public class MyClass {
     //TECHPRO branch, version t1
     public String s4= "bu TECHPRO s4 dür";
 
+    //TECHPRO branch, version t2
+    public String s5= "bu TECHPRO s5 dir";
+
 }
