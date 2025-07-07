@@ -9,4 +9,7 @@ public class MyClass {
     //version3
     public String s3= "bu s3 dir";
 
+    //TECHPRO branch, version t1
+    public String s4= "bu TECHPRO s4 dür";
+
 }
