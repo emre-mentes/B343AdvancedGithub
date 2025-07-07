@@ -21,4 +21,10 @@ public class MyClass {
     //version5
     public String s7= "tarabyada villasi s7";
 
+    //techpro branch, version t3
+    public String s8= "hangi string deyiz?";
+
+    //techpro branch, version t4
+    public String s9= "dar geldi sana ankara";
+
 }
