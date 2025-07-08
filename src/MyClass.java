@@ -30,4 +30,10 @@ public class MyClass {
     //techpro branch, version t5
     public String s10= "affet beni aksam ustu";
 
+    //conflict example t6
+    public String s11= "bu aksam olurum";
+
+    //conflict example v7
+    public String s12 = "eski koprunun altinda";
+
 }
